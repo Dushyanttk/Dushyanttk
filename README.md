@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dushyanttk
 - 👀 I’m an entrpreneur
-- 🌱 I’m build projects using AI
+- 🌱 I build projects using AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dushyantt@yahoo.com
 - 😄 Pronouns: ...
